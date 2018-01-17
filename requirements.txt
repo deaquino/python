@@ -1,0 +1,11 @@
+Django>=1.11.8,<2.0
+psycopg2
+django-filter
+django-widget-tweaks
+Pillow
+django-debug-toolbar
+python-dateutil
+pytz
+six
+sqlparse
+text-unidecode
